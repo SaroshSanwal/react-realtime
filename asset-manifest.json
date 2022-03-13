@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-realtime/static/css/main.e033e103.css",
+    "main.js": "/react-realtime/static/js/main.313f8ab4.js",
+    "index.html": "/react-realtime/index.html",
+    "main.e033e103.css.map": "/react-realtime/static/css/main.e033e103.css.map",
+    "main.313f8ab4.js.map": "/react-realtime/static/js/main.313f8ab4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e033e103.css",
+    "static/js/main.313f8ab4.js"
+  ]
+}
